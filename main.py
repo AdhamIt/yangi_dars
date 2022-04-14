@@ -1,0 +1,1 @@
+print("Mening git hubdagi birinchi loyiham")
